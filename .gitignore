@@ -103,3 +103,5 @@ __recovery/
 modules/
 
 #Custom ignores
+/Lazarus/backup
+/Lazarus/lib
