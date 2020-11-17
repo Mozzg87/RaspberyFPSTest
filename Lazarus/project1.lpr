@@ -10,6 +10,9 @@ uses
   { you can add units after this }
   LazUTF8,
   SysUtils,
+  {$ifdef LINUX}
+  math,
+  {$endif}
   ctypes,
   CSFMLConfig,
   CSFMLGraphics,

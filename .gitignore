@@ -105,3 +105,4 @@ modules/
 #Custom ignores
 /Lazarus/backup
 /Lazarus/lib
+Lazarus/project1
